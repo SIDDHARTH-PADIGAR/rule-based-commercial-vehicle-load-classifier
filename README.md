@@ -42,7 +42,7 @@ to determine overload status — all using deterministic rules.
 
 ---
 
-## 📈 Visual Outputs
+##  Visual Outputs
 
 Radar and Bar charts help visualize abnormalities like:
 
@@ -52,10 +52,11 @@ Radar and Bar charts help visualize abnormalities like:
 * RPM per gear
 
 
-<p align="center">
-  ![Screenshot 2025-07-03 205554](https://github.com/user-attachments/assets/19e75972-692d-48f6-922f-d61a55459a91)
-  ![Screenshot 2025-07-03 205608](https://github.com/user-attachments/assets/e266e0f2-54c5-441e-a011-612f269fb8da)
-</p>
+
+![Screenshot 2025-07-03 205554](https://github.com/user-attachments/assets/19e75972-692d-48f6-922f-d61a55459a91)
+
+![Screenshot 2025-07-03 205608](https://github.com/user-attachments/assets/e266e0f2-54c5-441e-a011-612f269fb8da)
+
 
 ---
 
