@@ -42,7 +42,3 @@ Commercial vehicle OEMs lose millions annually due to improper loading, stress f
 - Ready to be swapped with ML models (XGBoost, RandomForest)
 - Cloud-ready, modular codebase, built with extensibility in mind
 
-## Try it
-
-```bash
-streamlit run app.py
