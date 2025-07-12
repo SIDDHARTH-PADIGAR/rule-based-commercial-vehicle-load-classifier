@@ -39,6 +39,5 @@ Commercial vehicle OEMs lose millions annually due to improper loading, stress f
 
 - Handles raw signal noise and missing fields
 - Designed to integrate with live vehicle telemetry
-- Ready to be swapped with ML models (XGBoost, RandomForest)
 - Cloud-ready, modular codebase, built with extensibility in mind
 
