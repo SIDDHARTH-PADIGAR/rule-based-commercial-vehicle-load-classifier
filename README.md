@@ -1,6 +1,7 @@
 # Vehicle Load Evaluator
 
 A production-grade telemetry analysis tool to detect overloaded heavy vehicles using real ECU data.
+**Note: This is a rule-based classifier, designed as a practical solution because ECUs (Electronic Control Units) often lack the computational resources to support ML model deployment. However, a machine learning alternative using XGBoost and Random Forest Classifier is also being developed in parallel.
 
 ## Why it matters
 
