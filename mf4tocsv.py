@@ -1,8 +1,8 @@
 from asammdf import MDF
 import pandas as pd
 
-mf4_path = "data/sample1.mf4"
-output_csv = "full_dump.csv"
+mf4_path = "data/sample3.mf4"
+output_csv = "sample3.csv"
 
 # Load the MDF file
 mdf = MDF(mf4_path)

@@ -1,0 +1,7 @@
+truck_id,torque,rpm,gear,speed,elevation,voltage,stress_index,power_kw,power_density,rpm_per_gear,actual_weight,actual_tpt,expected_tpt,predicted_status,expected_status,match
+truck_A,250,1600,5,55,2.0,26.5,9.09,41.88,1.58,320.0,11.8,21.19,20.0,Normal,Normal,True
+truck_B,180,1400,4,40,1.0,25.5,4.5,26.39,1.03,350.0,10.5,17.14,20.0,Normal,Normal,True
+truck_C,220,1500,6,60,1.5,24.5,5.5,34.55,1.41,250.0,12.0,18.33,20.0,Normal,Normal,True
+truck_D,500,1800,2,20,10.0,27.0,250.0,94.24,3.49,900.0,14.5,34.48,20.0,Overload,Overload,True
+truck_E,390,2000,3,30,12.0,27.5,156.0,81.68,2.97,666.67,13.8,28.26,20.0,Overload,Overload,True
+truck_F,350,1750,4,28,15.0,28.0,187.5,64.14,2.29,437.5,13.5,25.93,20.0,Overload,Overload,True
